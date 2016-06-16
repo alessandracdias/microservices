@@ -1,0 +1,3 @@
+C:\Alessandra\Puc\Produtividade\AULA03\Desobstrucao_Vias_Publicas\Desobstrucao_Vias_Publicas\obj\Debug\Desobstrucao_Vias_Publicas.csprojResolveAssemblyReference.cache
+C:\Alessandra\Puc\Produtividade\AULA03\Desobstrucao_Vias_Publicas\Desobstrucao_Vias_Publicas\obj\Debug\BQ_City.dll
+C:\Alessandra\Puc\Produtividade\AULA03\Desobstrucao_Vias_Publicas\Desobstrucao_Vias_Publicas\obj\Debug\BQ_City.pdb
